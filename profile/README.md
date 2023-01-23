@@ -13,6 +13,7 @@ With Pynecone, data scientists and software engineers can create high-quality we
 
 - [Discord Invitation](https://discord.gg/T5WSbC2YtQ)
 - [Twitter](https://twitter.com/pynecone_io)
+- [LinkedIn](https://www.linkedin.com/company/pynecone-io/)
 
 ## 🚨 News 📰
 - [Show HN](https://news.ycombinator.com/item?id=33922754)
