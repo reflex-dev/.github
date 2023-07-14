@@ -1,4 +1,7 @@
 ## Welcome to Reflex 👋
+```diff
++ Searching for Pynecone? You are in the right repo. Pynecone has been renamed to Reflex. +
+```
 
 Reflex is an open-source, full-stack python framework that makes it easy to build and deploy web apps in minutes.
 
