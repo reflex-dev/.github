@@ -9,9 +9,9 @@
 
 ## Why we started Reflex
 
-Web apps are the most common way for developers to share their ideas. But even for skilled engineers, without experience in traditional frontend tools like Javascript or React, making a web app can be overwhelming and time-consuming. And once their app is created, deploying it is often a nightmare.
+Web apps are the most common way for developers to share their ideas. But even for skilled engineers, without experience in traditional frontend tools like Javascript or React, making a web app can be overwhelming and time-consuming.
 
-Over the years, many low-code and no-code frameworks have tried to make web development more accessible, but they all have limitations and graduation risks compared to standard web frameworks. With Reflex, we have created a framework that lets developers leverage their existing Python skills to build and deploy apps without compromising on flexibility or customization.
+Over the years, many low-code and no-code frameworks have tried to make web development more accessible, but they all have limitations and graduation risks compared to standard web frameworks. With Reflex, we have created a framework that lets developers leverage their existing Python skills to build and deploy apps without compromising flexibility or customization.
 
 Reflex allows you to make anything from a small data science project to a full-scale, multi-page web app. Since Reflex apps compile down to traditional frontend frameworks, there's no constraint on the type of apps you can build. Instead of reinventing the web development ecosystem, we're trying to make the existing ecosystem more accessible.
 
