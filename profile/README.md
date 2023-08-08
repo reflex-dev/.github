@@ -4,9 +4,8 @@
 + Searching for Pynecone? You are in the right repo. Pynecone has been renamed to Reflex. +
 ```
 
-Reflex is an open-source framework for making web apps in pure Python. 
-
-- Checkout our [main repository](https://github.com/pynecone-io/reflex) to learn more.
+#### Reflex is an open-source framework for making web apps in pure Python. 
+- #### Checkout our main repository [Reflex](https://github.com/pynecone-io/reflex) to learn more.
 
 ## Why we started Reflex
 
