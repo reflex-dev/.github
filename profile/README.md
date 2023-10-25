@@ -1,4 +1,4 @@
-# Welcome to Reflex 👋
+![Screenshot 2023-10-25 at 1 29 43 PM](https://github.com/reflex-dev/.github/assets/38776361/3f7f8dbc-0487-4729-adb5-b32379335456)
 
 ```diff
 + Searching for Pynecone? You are in the right repo. Pynecone has been renamed to Reflex. +
