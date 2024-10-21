@@ -1,5 +1,11 @@
 ![Home](https://github.com/user-attachments/assets/74e98f91-3bb1-4cbb-abf8-ccd23ea8fb72)
 
+<div align="center">
+  <a href="https://www.producthunt.com/posts/reflex-6?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-reflex&#0045;6" target="_blank">
+    <img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=445480&theme=dark&period=daily" alt="Reflex - Build&#0032;web&#0032;apps&#0032;in&#0032;pure&#0032;Python | Product Hunt" width="250" height="54" />
+  </a>
+</div>
+
 ## What is Reflex
 
 Reflex is a new open-source framework that empowers developers to build full-stack web applications entirely in pure Python—no JavaScript or web development experience required.
@@ -12,7 +18,6 @@ Reflex provides high-level customizable UI components, database management, and 
  
 > [!TIP]
 > Checkout our main repository [Reflex](https://github.com/pynecone-io/reflex) to learn more.
-
 
 
 ## Why we started Reflex
