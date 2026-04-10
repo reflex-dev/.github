@@ -28,14 +28,7 @@ Over the years, many low-code and no-code frameworks have tried to make web deve
 
 Reflex allows you to make anything from a small data science project to a full-scale, multi-page web app. Since Reflex apps compile down to traditional frontend frameworks, there's no constraint on the type of apps you can build. Instead of reinventing the web development ecosystem, we're trying to make the existing ecosystem more accessible.
 
-## What We are Working on
-
-- **Core Framework:** We will continue to grow our open-source framework to have feature parity with traditional front-end frameworks. This includes adding more complex styling methods like detailed animations and improvements to our core component library.
-- **Hosting Service:** The open-source project is only half the vision. In the upcoming months, we will build and release a beta of our hosting service so users can quickly deploy, scale, and share their apps. Our primary focus areas for our hosting service are security, reliability, and optimizing app performance by running our app close to the user on the edge.
-
-
 ## Resources 
-- [Forum](https://forum.reflex.dev)
 - [Discord Community](https://discord.gg/T5WSbC2YtQ)
 - [LinkedIn](https://www.linkedin.com/company/reflex-dev/)
 - [Twitter](https://twitter.com/getreflex)
